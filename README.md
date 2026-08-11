@@ -2,7 +2,7 @@
 Foco é aprender e melhor minhas habilidades em C 
 
 
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1> <h3 align="center">Desenvolvedor apaixonado por C e programação de baixo nível 🖥️</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=int+main()+%7B+return+0%3B+%7D;Explorando+sistemas+e+performance;Ponteiros%2C+memória+e+baixo+nível;Sempre+aprendendo+algo+novo" alt="Typing SVG" /> </p>
+<h1 align="center">Olá, eu sou Amaral 👋</h1> <h3 align="center">Desenvolvedor apaixonado por C e programação de baixo nível 🖥️</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=int+main()+%7B+return+0%3B+%7D;Explorando+sistemas+e+performance;Ponteiros%2C+memória+e+baixo+nível;Sempre+aprendendo+algo+novo" alt="Typing SVG" /> </p>
 🚀 Sobre mim
 🔭 Atualmente trabalhando com C, explorando estruturas de dados e algoritmos
 🌱 Estudando programação de sistemas, gerenciamento de memória e otimização
